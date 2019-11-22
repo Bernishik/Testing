@@ -42,7 +42,7 @@ public class MyView {
             }
             System.out.println(i + 1 + "." + " Двері " + (i + 1) + "    " + str);
         }
-        System.out.println(cheatNum + "." + (CheatOn ? "Виключити чіти" : " Включити чіти"));
+        System.out.println(cheatNum + "." + (CheatOn ? "Виключити гавно чіти" : " Включити гавно чіти"));
     }
 
     private void start() {
