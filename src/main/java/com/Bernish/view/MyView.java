@@ -44,7 +44,7 @@ public class MyView {
         }
         System.out.println(cheatNum + "." + (CheatOn ? "Виключити чіти" : " Включити чіти"));
     }
-s
+
     private void start() {
         Scanner menu = new Scanner(System.in);
         System.out.println("5678 Вітаю в моїй грі. Ви Герой комп'ютерної гри, що володіє силою в 25 балів,\n" +
